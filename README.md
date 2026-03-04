@@ -4,6 +4,8 @@ Please have [this music](https://www.youtube.com/watch?v=IP104YZl_zc) in the
 background in order to write perfect, flawless c++ code. If instead you are a
 dinosaur, you can listen to [this instead](https://youtu.be/ZS5DeEqTgjM).
 
+If someone steps into your code, listen to [this instead](https://www.youtube.com/watch?v=0rG74rG_ubs).
+
 This template includes a CMake project to compile your game into a functional
 executable with [Raylib](https://www.raylib.com/index.html), a basic rendering
 engine and [EnTT](https://github.com/skypjack/entt), a simple library to create
