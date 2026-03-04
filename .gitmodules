@@ -1,0 +1,9 @@
+[submodule "includes/raylib"]
+	path = includes/raylib
+	url = git@github.com:raysan5/raylib.git
+[submodule "includes/entt"]
+	path = includes/entt
+	url = git@github.com:skypjack/entt.git
+[submodule "includes/raygui"]
+	path = includes/raygui
+	url = git@github.com:raysan5/raygui.git
